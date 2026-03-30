@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00F2FE&background=00000000&center=true&vCenter=true&width=1000&lines=%F0%9F%91%8B%2C+I'm+Ahsan+Ahmed;Software+Engineer;DevOps+%26+Cloud+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=f1faee&background=00000000&center=true&vCenter=true&width=1000&lines=%F0%9F%91%8B%2C+I'm+Ahsan+Ahmed;Software+Engineer;DevOps+%26+Cloud+Engineer" />
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
